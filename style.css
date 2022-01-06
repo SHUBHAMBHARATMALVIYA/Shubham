@@ -1,0 +1,42 @@
+.image {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+    margin-bottom: 20px;
+    margin-top: auto;
+    border-style: solid;
+    border-width: thick;
+    border-color: chocolate;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#f70000 0%, #ba2727 100%);
+
+}
+
+.audiobtn {
+    color: blue;
+    font-variant: small-caps;
+    background-color: lightcoral;
+    font-size: 20px;
+}
+
+.Heading {
+    font-size: 70px;
+    color:
+}
+
+#para {
+    font-size: 40px;
+}
+
+.Heading {
+    border-style: solid;
+    border-width: thick;
+}
+
+#Myprojects {
+    font-size: 25px;
+}
